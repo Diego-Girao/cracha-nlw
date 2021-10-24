@@ -14,3 +14,4 @@
 - Jake, conteúdo nota 💯 e sua explicação de API como sendo restaurante foi muito boa.
 - Em funcionamento: https://diego-girao.github.io/cracha-nlw/
 - Acesse o código da versão cracha virtual para desktop: https://github.com/Diego-Girao/cracha-nlw-desktop.git
+- Acesse a versão online para desktop: https://diego-girao.github.io/cracha-nlw-desktop/
