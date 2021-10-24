@@ -13,3 +13,4 @@
 - Maykão e ao seu MIT, explicações e exemplos para fixar o conteúdo nota 💯.
 - Jake, conteúdo nota 💯 e sua explicação de API como sendo restaurante foi muito boa.
 - Em funcionamento: https://diego-girao.github.io/cracha-nlw/
+- Acesse o código da versão cracha virtual para desktop: https://github.com/Diego-Girao/cracha-nlw-desktop.git
